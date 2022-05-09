@@ -1,5 +1,5 @@
 # cnftsniper
-cNFT Sniper / monitoring app built with Streamlit and python3. Currently this app monitors listings on jpg.store and refreshes based on a user defined interval. The app is capable of filter results based on traits.
+cNFT Sniper / monitoring app built with Streamlit and python3. Currently this app monitors listings on jpg.store and refreshes based on a user defined interval. The app is capable of filtering results based on traits.
 
 __Alpha:__
 
