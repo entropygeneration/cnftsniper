@@ -3,7 +3,7 @@ cNFT Sniper / monitoring app built with Streamlit and python3. Currently this ap
 
 __Alpha:__
 
-This is an initial version and is in no way intended for use in a production environment. Bugs and issues exist, and all concepts have not been fully developed. This version is intended to act as a skeleton / framework to be used for further collaboration / experimentation. Code is very rudimentary at this point.
+This is an initial version and is in no way intended for use in a production environment. Bugs and issues likely exist, and all concepts have not been fully developed. This version is intended to act as a skeleton / framework to be used for further collaboration / experimentation. Code is very rudimentary at this point.
 
 __Stop:__
 
