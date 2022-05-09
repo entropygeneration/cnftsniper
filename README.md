@@ -1,5 +1,5 @@
 # cnftsniper
-cNFT Sniper / monitoring app built with Streamlit
+cNFT Sniper / monitoring app built with Streamlit and python3
 
 __Alpha:__
 
