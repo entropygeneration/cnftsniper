@@ -22,4 +22,5 @@ streamlit
 ```
 
 __Usage:__
+
 `streamlit run sniper.py`
