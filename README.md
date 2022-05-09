@@ -8,3 +8,11 @@ This is an initial version and is in no way intended for use in a production env
 __jpg.store:__
 
 The currently supplied api only supports usage with jpg.store. Api's for other marketplaces need to be developed.
+
+__Requirements:__
+```
+bs4
+natsort
+requests
+streamlit
+```
