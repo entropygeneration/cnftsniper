@@ -5,6 +5,10 @@ __Alpha:__
 
 This is an initial version and is in no way intended for use in a production environment. Bugs and issues exist, and all concepts have not been fully developed. This version is intended to act as a skeleton / framework to be used for further collaboration / experimentation. Code is very rudimentary at this point.
 
+__Stop:__
+
+Please note, the stop button is not always 100% immediate. Sometimes need to wait a sec or click a second time.
+
 __jpg.store:__
 
 The currently supplied api only supports usage with jpg.store. Api's for other marketplaces need to be developed.
