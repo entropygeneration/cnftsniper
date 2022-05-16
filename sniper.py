@@ -29,6 +29,9 @@ def create_listing(item, count2):
 				has_price = True
 			price = '{:.1f}'.format(int(value) * .000001) # convert lovelace to ADA & limit to 1 decimal
 	if optimized != '' and optimized!= None and has_price == True:
+		if optimized[:4] != 'http':
+			#optimized = f'https://storage.googleapis.com/jpeg-optim-files/{optimized}'
+			optimized = f'https://images.jpgstoreapis.com/ipfs/{optimized}'
 		asset = get_asset(asset_id)
 		listing_id = get_listing_id(json.loads(asset.text))
 		create_container(count2, name, listing_id, price, optimized)
